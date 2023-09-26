@@ -6,7 +6,7 @@ Using Time-series forecasting to forecast store sales on data from Corporación 
 
 To build a model that more accurately predicts the unit sales for thousands of items sold at different Favorita stores.
 
-# looking deep into the data
+# Data Exploration on going
 
 
 # WORK IN PROGRESS
