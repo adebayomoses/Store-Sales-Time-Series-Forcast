@@ -8,5 +8,6 @@ To build a model that more accurately predicts the unit sales for thousands of i
 
 # Data Exploration ongoing
 
+# Feature Engineering
 
 # WORK IN PROGRESS
