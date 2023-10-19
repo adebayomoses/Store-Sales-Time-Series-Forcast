@@ -8,6 +8,7 @@ To build a model that more accurately predicts the unit sales for thousands of i
 
 # Data Exploration ongoing
 Finding patterns and relationships among the variables.
+Scatter plot bewteen quantity sold and promotion.
 
 ## Feature Engineering
 
