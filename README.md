@@ -14,7 +14,7 @@ Finding patterns and relationships among the variables.
 
 * The plot shows that more promotion was made at Quito city and Guayaquil, which might have resulted in large sales from these cities.
 
-When the sales is low, the company make more promotion to boost sales. however, when the sales reach it peak, less promotion is made. Not strong a correlation because as the sales hit peakk, less to non promotion is made.
+* When the sales are low, the company make more promotion to boost sales. however, when the sales reach their peak, less promotion is made. Not strong a correlation because as the sales hit the peak, less non-promotion is made.
 
 Negative correlation with less impact. from the plot , as the oil price move from 0 to 100, the effect on sales was when it was at it lowest. however as the sales moves towards its peaks, their are less impact from oil price.
 
