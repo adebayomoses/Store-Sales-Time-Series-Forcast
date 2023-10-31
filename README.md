@@ -8,9 +8,9 @@ To build a model that more accurately predicts the unit sales for thousands of i
 
 # Data Exploration ongoing
 Finding patterns and relationships among the variables.
-The plot shows the type category that has higher sales compare to others
+* The plot shows the type category that has higher sales compared to others
 
-The plot shows that majority of the sales is made from Quito city and Guayaquil also contributed to the large sales.
+* The plot shows that the majority of the sales is made from Quito city and Guayaquil also contributed to the large sales.
 
 The plot shows that more promotion was made at Quito city and Guayaquil, which might have resulted to the the large sales from these cities.
 
