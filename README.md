@@ -18,9 +18,9 @@ Finding patterns and relationships among the variables.
 
 * Negative correlation with less impact. From the plot, as the oil price moved from 0 to 100, the effect on sales was when it was at its lowest. however as the sales move towards their peaks, there is less impact from oil prices.
 
-from the plot above, the information shows that the company is likely to focus more on the overall revenue of the business than what each product category revenue contributed to the business.
+* from the plot above, the information shows that the company is likely to focus more on the overall revenue of the business than what each product category revenue contributed to the business.
 
-The plot shows that product families with more promotion contributed more to the total revenue. and family products with little or no promotion, also contributed less to the total sales because the majority of the total revenue came from the promoted products.
+* The plot shows that product families with more promotion contributed more to the total revenue. and family products with little or no promotion, also contributed less to the total sales because the majority of the total revenue came from the promoted products.
 
 
 
