@@ -10,9 +10,9 @@ To build a model that more accurately predicts the unit sales for thousands of i
 Finding patterns and relationships among the variables.
 * The plot shows the type category that has higher sales compared to others
 
-* The plot shows that the majority of the sales is made from Quito city and Guayaquil also contributed to the large sales.
+* The plot shows that the majority of the sales are made from Quito city and Guayaquil also contributed to the large sales.
 
-The plot shows that more promotion was made at Quito city and Guayaquil, which might have resulted to the the large sales from these cities.
+* The plot shows that more promotion was made at Quito city and Guayaquil, which might have resulted in large sales from these cities.
 
 When the sales is low, the company make more promotion to boost sales. however, when the sales reach it peak, less promotion is made. Not strong a correlation because as the sales hit peakk, less to non promotion is made.
 
