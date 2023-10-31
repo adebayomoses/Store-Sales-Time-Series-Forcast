@@ -14,13 +14,13 @@ Finding patterns and relationships among the variables.
 
 * The plot shows that more promotion was made at Quito city and Guayaquil, which might have resulted in large sales from these cities.
 
-* When the sales are low, the company make more promotion to boost sales. however, when the sales reach their peak, less promotion is made. Not strong a correlation because as the sales hit the peak, less non-promotion is made.
+* When the sales are low, the company make more promotion to boost sales. however, when the sales reach their peak, less promotion is made. There is not a strong correlation because as the sales hit the peak, less non-promotion is made.
 
-Negative correlation with less impact. from the plot , as the oil price move from 0 to 100, the effect on sales was when it was at it lowest. however as the sales moves towards its peaks, their are less impact from oil price.
+* Negative correlation with less impact. From the plot, as the oil price moved from 0 to 100, the effect on sales was when it was at its lowest. however as the sales move towards their peaks, there is less impact from oil prices.
 
-from the plot above, the information shows that the company is likely to focus more on the over all revenue of the business than what each product category revenue contributed into the business.
+from the plot above, the information shows that the company is likely to focus more on the overall revenue of the business than what each product category revenue contributed to the business.
 
-The plot shows that product family with more promotion contributed more to the total revenue. and family product with little or no promotion, also contributed less to the total sales because majority of the total revenue came from the promoted products.
+The plot shows that product families with more promotion contributed more to the total revenue. and family products with little or no promotion, also contributed less to the total sales because the majority of the total revenue came from the promoted products.
 
 
 
