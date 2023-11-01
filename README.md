@@ -6,23 +6,20 @@ Using Time-series forecasting to forecast store sales on data from Corporación 
 
 To build a model that more accurately predicts the unit sales for thousands of items sold at different Favorita stores.
 
-# Data Exploration ongoing
+# Data Exploration findings:
 Finding patterns and relationships among the variables.
-* The plot shows the type category that has higher sales compared to others
 
-* The plot shows that the majority of the sales are made from Quito city and Guayaquil also contributed to the large sales.
+1. The plot indicates that a specific product category outperforms the others in terms of sales.
 
-* The plot shows that more promotion was made at Quito city and Guayaquil, which might have resulted in large sales from these cities.
+2. It's evident from the plot that the highest sales are concentrated in Quito and Guayaquil, which can be attributed to the increased promotional efforts in these cities.
 
-* When the sales are low, the company make more promotion to boost sales. however, when the sales reach their peak, less promotion is made. There is not a strong correlation because as the sales hit the peak, less non-promotion is made.
+3. The plot suggests a correlation between sales and the level of promotion. As sales decrease, promotional efforts intensify. However, as sales peak, less emphasis is placed on promotion. The correlation is not very strong since reduced promotion accompanies peak sales.
 
-* Negative correlation with less impact. From the plot, as the oil price moved from 0 to 100, the effect on sales was when it was at its lowest. however as the sales move towards their peaks, there is less impact from oil prices.
+4. There seems to be a negative correlation with relatively low impact. As depicted in the plot, when oil prices range from 0 to 100, their influence on sales is most pronounced when sales are at their lowest. Conversely, as sales approach their peaks, the impact of oil prices diminishes.
 
-* from the plot above, the information shows that the company is likely to focus more on the overall revenue of the business than what each product category revenue contributed to the business.
+5. The plot provides insights indicating that the company prioritizes overall revenue rather than the contribution of each product category.
 
-* The plot shows that product families with more promotion contributed more to the total revenue. and family products with little or no promotion, also contributed less to the total sales because the majority of the total revenue came from the promoted products.
-
-
+6. Notably, the plot reveals that product families with more promotion significantly contribute to the total revenue. Conversely, product families with limited or no promotion make a smaller impact on the total sales. The majority of total revenue originates from promoted products.
 
 ## Feature Engineering
 
