@@ -11,7 +11,7 @@ Finding patterns and relationships among the variables.
 
 1. The plot indicates that a specific product category outperforms the others in terms of sales.
 
-2. It's evident from the plot that the highest sales are concentrated in Quito and Guayaquil, which can be attributed to the increased promotional efforts in these cities
+2. It's evident from the plot that the highest sales are concentrated in Quito and Guayaquil, which can be attributed to the increased promotional efforts in these cities.
 
 3. The plot suggests a correlation between sales and the level of promotion. As sales decrease, promotional efforts intensify. However, as sales peak, less emphasis is placed on promotion. The correlation is not very strong since reduced promotion accompanies peak sales.
 
