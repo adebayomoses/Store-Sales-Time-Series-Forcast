@@ -21,6 +21,6 @@ Finding patterns and relationships among the variables.
 
 6. Notably, the plot reveals that product families with more promotion significantly contribute to the total revenue. Conversely, product families with limited or no promotion make a smaller impact on the total sales. The majority of total revenue originates from promoted products.
 
-## Feature Engineering
+## Training the model
 
 # WORK IN PROGRESS
