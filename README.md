@@ -19,7 +19,7 @@ Finding patterns and relationships among the variables.
 
 5. The plot provides insights indicating that the company prioritizes overall revenue rather than the contribution of each product category.
 
-6. Notably, the plot reveals that product families with more promotion significantly contribute to the total revenue. Conversely, product families with limited or no promotion make a smaller impact on the total sales. The majority of total revenue originates from promoted products.
+6. Notably, the plot reveals that product families with more promotion significantly contribute to the total revenue. Conversely, product families with limited or no promotion make a smaller impact on the total sales. The majority of total revenue originates from promoted products
 
 # Training the model
 
