@@ -23,4 +23,4 @@ Finding patterns and relationships among the variables.
 
 # Training the model:
 
-## WORK IN PROGRESS
+## WORK IN PROGRESS...
