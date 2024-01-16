@@ -57,6 +57,5 @@ Leverage data on past sales and customer behavior to create personalized promoti
 
 # Training the model:
 
-Deploy the model:
+It became computationally expensive to train the model as a result of the large amount of data involved. 
 
-## WORK IN PROGRESS..
