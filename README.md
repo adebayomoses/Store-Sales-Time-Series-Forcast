@@ -9,17 +9,23 @@ To build a model that more accurately predicts the unit sales for thousands of i
 # Data Exploration findings:
 Finding patterns and relationships among the variables.
 
-1. The plot indicates that a specific product category outperforms the others in terms of sales.
+Findings Summary:
 
-2. It's evident from the plot that the highest sales are concentrated in Quito and Guayaquil, which can be attributed to the increased promotional efforts in these cities.
+Sales Distribution by Product Family:
 
-3. The plot suggests a correlation between sales and the level of promotion. As sales decrease, promotional efforts intensify. However, as sales peak, less emphasis is placed on promotion. The correlation is not very strong since reduced promotion accompanies peak sales.
+Groceries and beverages stand out as the top contributors to total sales.
+Automotive and lawn and garden product families contribute the least to overall sales.
+Impact of Promotion on Revenue:
 
-4. There seems to be a negative correlation with relatively low impact. As depicted in the plot, when oil prices range from 0 to 100, their influence on sales is most pronounced when sales are at their lowest. Conversely, as sales approach their peaks, the impact of oil prices diminishes.
+Product families with higher promotion levels show a more significant contribution to total revenue.
+Families with minimal or no promotion make lesser contributions, indicating the importance of promotional activities in driving sales.
+Oil Price Impact:
 
-5. The plot provides insights indicating that the company prioritizes overall revenue rather than the contribution of each product category.
+The influence of oil prices on sales is more pronounced at lower price ranges (0 to 100), particularly when sales are at their lowest.
+As sales reach their peaks, the impact of oil prices diminishes.
+Correlation Between Sales and Promotion:
 
-6. Notably, the plot reveals that product families with more promotion significantly contribute to the total revenue. Conversely, product families with limited or no promotion make a smaller impact on the total sales. The majority of total revenue originates from promoted products.
+A negative correlation exists between sales and promotion, with sales peaking while promotion efforts decrease or become non-existent.
 
 # Training the model:
 
