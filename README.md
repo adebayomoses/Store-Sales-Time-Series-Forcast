@@ -6,10 +6,8 @@ Using Time-series forecasting to forecast store sales on data from Corporación 
 
 And build a model that more accurately predicts the unit sales for thousands of items sold at different Favorita stores.
 
-# Data Exploration findings:
+# Findings Summary:
 Finding patterns and relationships among the variables.
-
-Findings Summary:
 
 * Sales Distribution by Product Family:
   
