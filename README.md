@@ -16,6 +16,7 @@ Groceries and beverages stand out as the top contributors to total sales.
 Automotive and lawn and garden product families contribute the least to overall sales.
 
 * Impact of Promotion on Revenue:
+  
 Product families with higher promotion levels show a more significant contribution to total revenue.
 Families with minimal or no promotion make lesser contributions, indicating the importance of promotional activities in driving sales.
 
