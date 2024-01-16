@@ -4,7 +4,7 @@
 
 Using Time-series forecasting to forecast store sales on data from Corporación Favorita, a large Ecuadorian-based grocery retailer.
 
-To build a model that more accurately predicts the unit sales for thousands of items sold at different Favorita stores.
+And build a model that more accurately predicts the unit sales for thousands of items sold at different Favorita stores.
 
 # Data Exploration findings:
 Finding patterns and relationships among the variables.
@@ -29,6 +29,33 @@ As sales reach their peaks, the impact of oil prices diminishes.
 * Correlation Between Sales and Promotion:
   
 A negative correlation exists between sales and promotion, with sales peaking while promotion efforts decrease or become non-existent.
+
+
+# Recommendations to Improve:
+
+* Optimize Promotion Strategies:
+
+Evaluate and refine promotion strategies for product families to ensure a balanced and effective approach.
+Consider increasing promotions for product families with lower sales to stimulate growth.
+
+* Diversify Product Offerings:
+
+Explore opportunities to diversify product offerings, especially within the automotive and lawn and garden categories, to potentially boost sales.
+
+* Monitor Oil Price Sensitivity:
+
+Continuously monitor the sensitivity of sales to oil price fluctuations and adjust strategies accordingly.
+Consider implementing targeted marketing efforts during periods of higher oil prices to mitigate potential negative effects.
+
+* Sales Variation:
+
+Tailor promotional strategies to local preferences and market dynamics.
+
+* Customer Engagement Programs:
+  
+Implement customer engagement programs to enhance loyalty and encourage repeat purchases.
+Leverage data on past sales and customer behavior to create personalized promotions.
+
 
 # Training the model:
 
